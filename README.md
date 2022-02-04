@@ -8,7 +8,7 @@ QAZ-ish alice style handwired board
 - Gasket mount
 - 5mm thick plate
 - Clear window on the back to display wiring
-- Via support (if you choose to wire the matrix the same as I did)
+- VIA support (if you choose to wire the matrix the same as I did)
 
 ## You will need:
 - 35x MX style switches
@@ -22,7 +22,7 @@ QAZ-ish alice style handwired board
 - (Optional) Clear plastic/acryllic sheet for the window on the back
 
 ### Note for via users
-To get the board properly showing up in Via, you will need to go into Via > File > Import Keymap and then select the "C-13X.json" file
+To get the board properly showing up in VIA, you will need to go into VIA > File > Import Keymap and then select the "C-13X.json" file
 
 # Album
 
