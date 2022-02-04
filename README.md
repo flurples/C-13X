@@ -2,6 +2,7 @@
 qaz-ish alice style handwired board
 
 ![PXL_20220204_205443605](https://user-images.githubusercontent.com/72298427/152603681-25e74323-60f7-4ff9-90ad-4e881e0b2597.jpg)
+sound test: https://youtu.be/haUENY8KfjM
 
 ## features
 - qaz-ish alice layout
