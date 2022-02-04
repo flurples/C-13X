@@ -20,3 +20,13 @@ QAZ-ish alice style handwired board
 - (Optional) 2x 2u plate mount stabiliers
 - (Optional) Feet (I used 3M SJ1502s, but any feet 8mm in diameter should work)
 - (Optional) Clear plastic/acryllic sheet for the window on the back
+
+### Note for via users
+To get the board properly showing up in Via, you will need to go into Via > File > Import Keymap and then select the "C-13X.json" file
+
+# Album
+
+![PXL_20220203_173542169](https://user-images.githubusercontent.com/72298427/152611480-e83ecd8b-1ea5-4977-aa36-3745ce18c696.jpg)
+![PXL_20220203_175004018](https://user-images.githubusercontent.com/72298427/152611497-1de400fa-bd9d-4521-aa89-d0136965a84c.jpg)
+![PXL_20220203_170605416](https://user-images.githubusercontent.com/72298427/152611499-b3a49898-65a2-4c96-9766-b8597629048a.jpg)
+![PXL_20220203_170541708](https://user-images.githubusercontent.com/72298427/152611501-e68f51ae-4df0-4d34-a146-f273b1e73f11.jpg)
