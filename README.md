@@ -14,7 +14,7 @@ sound test: https://youtu.be/haUENY8KfjM
 ## you will need:
 - 35x mx style switches
 - 35x diodes
-- elite-c controller (the cutout on the bottom is specifically designed for an elite-c; so a promicro will not work)
+- elite-c controller (the cutout on the bottom is specifically designed for an elite-c, so a promicro will not work)
 - wires of your choice
 - gaskets (This is designed to work with KBDFans's D65 gaskets, but any gaskets should work as long as they are not over 4mm wide)
 - 8x m2x6 screws
