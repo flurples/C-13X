@@ -18,12 +18,12 @@ sound test: https://youtu.be/haUENY8KfjM
 - wires of your choice
 - gaskets (This is designed to work with KBDFans's D65 gaskets, but any gaskets should work as long as they are not over 4mm wide)
 - 8x m2x6 screws
-- (optional) 2x 2u plate mount stabiliers
+- (optional) 2x 2u plate mount stabilizers
 - (optional) bumpons/feet (I used 3m sj1502s, but any feet 8mm in diameter should work)
 - (optional) clear plastic/acryllic sheet for the window on the back
 
 ### note for those who want to use the provided firmware
-- should go without saying, but the board has to be wired exactly as the "matrix.png" shows
+- should go without saying, but the board has to be wired exactly as the "matrix.png" shows for the firmware to work
 - use qmk toolbox to flash the hex file onto the board
 - to get the board properly showing up in via, you will need to go into via > file > import keymap and then select the "C-13X.json" file, then it should show up
 
