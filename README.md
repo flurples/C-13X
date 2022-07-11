@@ -27,6 +27,9 @@ sound test: https://youtu.be/haUENY8KfjM
 - use qmk toolbox to flash the hex file onto the board
 - to get the board properly showing up in via, you will need to go into via > file > import keymap and then select the "C-13X.json" file, then it should show up
 
+### disclaimer
+I do not sell any products. I have seen several vendors selling my designs, but these are not endorsed by me. If you decide to support these sellers I am not responsible for any issues you may encounter with them.
+
 # Album
 
 ![PXL_20220203_170605416](https://user-images.githubusercontent.com/72298427/152611499-b3a49898-65a2-4c96-9766-b8597629048a.jpg)
