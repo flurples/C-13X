@@ -11,7 +11,7 @@ sound test: https://youtu.be/haUENY8KfjM
 - clear window on the back to display wiring
 - via support (if you choose to wire the matrix the same as I did)
 
-## you will need:
+## you will need
 - 35x mx style switches
 - 35x diodes
 - elite-c controller (the cutout on the bottom is specifically designed for an elite-c, so a promicro will not work)
