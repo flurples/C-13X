@@ -22,15 +22,15 @@ sound test: https://youtu.be/haUENY8KfjM
 - (optional) bumpons/feet (I used 3m sj1502s, but any feet 8mm in diameter should work)
 - (optional) clear plastic/acryllic sheet for the window on the back
 
-### note for those who want to use the provided firmware
+## note for those who want to use the provided firmware
 - should go without saying, but the board has to be wired exactly as the "matrix.png" shows for the firmware to work
 - use qmk toolbox to flash the hex file onto the board
 - to get the board properly showing up in via, you will need to go into via > file > import keymap and then select the "C-13X.json" file, then it should show up
 
-### disclaimer
-I do not sell any products. I have seen several vendors selling my designs, but these are not endorsed by me. If you decide to support these sellers I am not responsible for any issues you may encounter with them.
+## disclaimer
+I do not sell any products, and I am not affiliated with any vendors who claim to sell my designs. if you choose to support these vendors, I am not responsible for any issues you may encounter with them.
 
-# Album
+## gallery
 
 ![PXL_20220203_170605416](https://user-images.githubusercontent.com/72298427/152611499-b3a49898-65a2-4c96-9766-b8597629048a.jpg)
 ![PXL_20220203_170541708](https://user-images.githubusercontent.com/72298427/152611501-e68f51ae-4df0-4d34-a146-f273b1e73f11.jpg)
