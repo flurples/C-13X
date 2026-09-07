@@ -19,7 +19,7 @@ sound test: https://youtu.be/haUENY8KfjM
 - gaskets (This is designed to work with KBDFans's D65 gaskets, but any gaskets should work as long as they are not over 4mm wide)
 - 8x m2x6 screws
 - (optional) 2x 2u plate mount stabilizers
-- (optional) bumpons/feet (I used 3m sj1502s, but any feet 8mm in diameter should work)
+- (optional) bumpons/feet (I used 3m sj5302s, but any feet 8mm in diameter should work)
 - (optional) clear plastic/acryllic sheet for the window on the back
 
 ## note for those who want to use the provided firmware
